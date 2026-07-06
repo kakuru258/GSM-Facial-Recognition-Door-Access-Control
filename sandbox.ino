@@ -15,6 +15,6 @@ Everything on the prototype is fully complete apart from the diagrams and Final 
 For running raw tests on the serial monitor when not triggered by the python snippet use
 the following for known and unknown face;
 
-sent:Mike,2026-06-03|04:44:55 pm(open)
+sent:Kakuru,2026-06-03|04:44:55 pm(open)
 sent:,2026-06-03|04:44:55 pm(unknown)
 */
