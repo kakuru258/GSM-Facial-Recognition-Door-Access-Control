@@ -1,11 +1,5 @@
 #ifndef GSM_H
 #define GSM_H
-/*
-  int offlineSwitch = 10; // used to simulate offline mood when turned ON
-  String atCommand, phoneNumber = "+256787535655"; // replace with your phone number after '+' 
-  
-  above used in codeSketch_v1.0
-*/
 
 bool offline, offlineAlert;
 String atCommand, phoneNumber, contact; 
